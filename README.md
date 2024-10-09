@@ -1,5 +1,3 @@
-# Create a README.md content for GitHub with emojis instead of icons
-readme_content_with_emojis = """
 # Customer Churn Analysis
 
 🌀 🔍 🐍 📊 📈
