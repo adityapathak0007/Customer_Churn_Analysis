@@ -59,9 +59,10 @@ This analysis provides a comprehensive understanding of the customer churn datas
 
 For any questions, suggestions, or feedback, feel free to reach out:
 
-- **Nimish Kawathekar** 👤
-- **Email**: nimishkawathekar@gmail.com 📧
-- **GitHub**: [nimish3145](https://github.com/nimish3145) 🐙
-- **LinkedIn**: [nimish3145](https://www.linkedin.com/in/nimish3145/) 🔗
+- **Aditya Pathak** 👤
+- **Email:** [adityapathak034@gmail.com](mailto:adityapathak034@gmail.com) 📧
+- **GitHub:** [adityapathak0007](https://github.com/adityapathak0007) 🐙
+- **LinkedIn:** [adityapathak07](https://www.linkedin.com/in/adityapathak07) 🔗
+
 
 
